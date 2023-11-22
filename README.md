@@ -51,3 +51,9 @@ void main(){
 ~~~
 
 Assim a saída será: `ArgumentError: O número deve ser um inteiro positivo.`
+
+# Bônus:
+
+Apesar de não ter sido exigido no teste, fiz o desafio com uma interface usando o framework flutter. Acesse o repositório no link abaixo:
+
+[Link do repositório: App mobile do desafio.](https://github.com/NascimentoFrancisco/app-escribo)
